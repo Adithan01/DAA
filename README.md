@@ -1,4 +1,4 @@
-#CIA-2
+# CIA-2
 The code base contains pso,ga and aco implementastions for the optimization of weights in the neural network.
 
 the pso algo gave a final accuracy of 70.60 but had a best accuracy of 83.60.
